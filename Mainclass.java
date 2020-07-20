@@ -64,7 +64,7 @@ public class Mainclass {
 	i.amethod();
 	i.displayed();
 	i.add(10,20,30);
-	i.setSname("Pavan");  
+	i.setSname("ABC");  
 	System.out.println(i.getSname());  
 	Imp j=new Inherit();
 	j.poly();
